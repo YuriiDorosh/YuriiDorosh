@@ -8,7 +8,6 @@
 - 📫 How to reach me: `contact.yuriidorosh@gmail.com`
 
 <br>
-<br>
 <details>
 <summary>
 <h3 style="display: inline;">🔍 Here's a snapshot of the technologies and tools I've mastered:</h3>
@@ -49,7 +48,7 @@
 <!-- ![Profile Metrics](https://metrics.lecoq.io/yuriidorosh) -->
 
 <br>
-<br>
+
 <details>
 <summary>
 <h3 style="display: inline;">⚙️ &nbsp;GitHub Analytics</h3>
@@ -67,7 +66,7 @@
 
 </details>
 
-<br>
+
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://img.shields.io/badge/-Yurii%20Dorosh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
