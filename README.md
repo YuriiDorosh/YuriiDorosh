@@ -17,15 +17,18 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-<!-- ![Django Rest Framework](https://img.shields.io/badge/-DRF-333333?style=flat&logo=django&labelColor=007CBA) -->
+
 
 ### 🌱 &nbsp;Also Worked With
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 ### 🧰 &nbsp;Additional Skills and Tools
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
@@ -36,16 +39,19 @@
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker-compose)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![GTK](https://img.shields.io/badge/-GTK-333333?style=flat&logo=gtk)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-333333?style=flat&logo=micropython)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-333333?style=flat)
 ![Tmux](https://img.shields.io/badge/-Tmux-333333?style=flat&logo=tmux)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
 </details>
-<!-- ![Profile Metrics](https://metrics.lecoq.io/yuriidorosh) -->
+
 
 <br>
 
@@ -70,5 +76,8 @@
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://img.shields.io/badge/-Yurii%20Dorosh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/y_u_r_a111/"><img src="https://img.shields.io/badge/-@yuriidorosh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/y_u_r_a111/"><img src="https://img.shields.io/badge/-@y_u_r_a111-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/s11nd8r"><img src="https://img.shields.io/badge/-s11nd8r-2CA5E0?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:contact.yuriidorosh@gmail.com"><img src="https://img.shields.io/badge/-contact.yuriidorosh@gmail.com-8B898E?style=flat&logo=mail"/></a>
 </p>
+
