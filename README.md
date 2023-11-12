@@ -25,9 +25,11 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 
 ### 🧰 &nbsp;Additional Skills and Tools
@@ -38,6 +40,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker-compose)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=tkinter)
+![Custom Tkinter](https://img.shields.io/badge/-Custom%20Tkinter-333333?style=flat)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Requests](https://img.shields.io/badge/-Requests-333333?style=flat)
 ![GTK](https://img.shields.io/badge/-GTK-333333?style=flat&logo=gtk)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-333333?style=flat&logo=micropython)
@@ -51,6 +57,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+
 
 </details>
 
