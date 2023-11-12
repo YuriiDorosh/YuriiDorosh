@@ -48,12 +48,36 @@
 ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
 </details>
 
 
-<br>
+
+<details>
+<summary>
+<h3 style="display: inline;">🚀 My Top Repositories</h3>
+</summary>
+
+- [Chess Forum](https://github.com/YuriiDorosh/chess-forum)
+- [Linux System Monitor](https://github.com/YuriiDorosh/Linux-system-monitor)
+- [Django AI Site](https://github.com/YuriiDorosh/Django-AI-site)
+- [Django Store](https://github.com/YuriiDorosh/django-store)
+- [Information Theory and Coding](https://github.com/YuriiDorosh/Information-Theory-and-Coding)
+- [after installing Debian based Linux distributions](https://github.com/YuriiDorosh/after-installing-Debian-based-Linux-distributions)
+- [ESP8266 LAN chat](https://github.com/YuriiDorosh/ESP8266-LAN-chat)
+- [Rocket Recorder](https://github.com/YuriiDorosh/Rocket-Recorder)
+- [Twitter Scraper](https://github.com/YuriiDorosh/twitter-scraper)
+- [Markdown Viewer](https://github.com/YuriiDorosh/markdown-viewer)
+- [New Words Telegram Bot](https://github.com/YuriiDorosh/new-words-telegram-bot)
+
+
+</details>
+
+
+
 
 <details>
 <summary>
