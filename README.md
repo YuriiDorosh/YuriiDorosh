@@ -83,9 +83,6 @@
 
 </details>
 
-
-
-
 <details>
 <summary>
 <h3 style="display: inline;">⚙️ &nbsp;GitHub Analytics</h3>
@@ -100,6 +97,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuriiDorosh&layout=compact&langs_count=10&theme=solarized_dark&hide_border=true" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=YuriiDoroshr&label=PROFILE+VIEWS)
 
 </details>
 
