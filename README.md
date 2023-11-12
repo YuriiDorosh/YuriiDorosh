@@ -97,9 +97,9 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuriiDorosh&layout=compact&langs_count=10&theme=solarized_dark&hide_border=true" />
 </p>
-<p align="center">
-    <img height="180em" src="https://komarev.com/ghpvc/?username=YuriiDoroshr&label=PROFILE+VIEWS" />
-</p>
+
+![](https://komarev.com/ghpvc/?username=YuriiDoroshr&label=PROFILE+VIEWS)
+
 </details>
 
 
