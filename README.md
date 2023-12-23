@@ -2,7 +2,9 @@
 
 ![Welcome to my profile](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+!!)
 
-- 🌱 I'm currently learning **[Django](https://www.djangoproject.com/)** and **[React](https://reactjs.org/)**
+![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
+- 🌱 I'm currently learning **[Django](https://www.djangoproject.com/)**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **Python**, **Django**, **Web Development**
 - 📫 How to reach me: `contact.yuriidorosh@gmail.com`
@@ -16,16 +18,18 @@
 ### 🛠 &nbsp;Main Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
 ### 🌱 &nbsp;Also Worked With
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -61,7 +65,7 @@
 
 </details>
 
-
+<br>
 
 <details>
 <summary>
@@ -83,6 +87,8 @@
 
 </details>
 
+<br>
+
 <details>
 <summary>
 <h3 style="display: inline;">⚙️ &nbsp;GitHub Analytics</h3>
@@ -102,12 +108,21 @@
 
 </details>
 
-
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://img.shields.io/badge/-Yurii%20Dorosh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/y_u_r_a111/"><img src="https://img.shields.io/badge/-@y_u_r_a111-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/s11nd8r"><img src="https://img.shields.io/badge/-s11nd8r-2CA5E0?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:contact.yuriidorosh@gmail.com"><img src="https://img.shields.io/badge/-contact.yuriidorosh@gmail.com-8B898E?style=flat&logo=mail"/></a>
+<a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://www.instagram.com/y_u_r_a111/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+<a href="https://t.me/s11nd8r"><img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="100"></a>
+
 </p>
+
+
+
+
+
+
+
+
+
+
 
