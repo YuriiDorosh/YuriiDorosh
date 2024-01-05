@@ -1,7 +1,5 @@
 ![Welcome to my profile](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+!!)
 
-![](https://komarev.com/ghpvc/?username=YuriiDoroshr&label=PROFILE+VIEWS)
-
 ```yaml
 person:
     name: Yurii Dorosh
@@ -52,12 +50,15 @@ person:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuriidorosh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yurii-dorosh-0b2006281/)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/y_u_r_a111/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://t.me/s11nd8r)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@user-hi7dq5hi1i)
-
+![](https://komarev.com/ghpvc/?username=YuriiDoroshr&label=PROFILE+VIEWS)
 
 <p align="center">
+
+<a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" width="71"></a>
+<a href="https://www.instagram.com/y_u_r_a111/"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram" width="77"></a>
+<a href="https://t.me/s11nd8r"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram" width="75"></a>
+<a href="https://www.youtube.com/@user-hi7dq5hi1i"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube" width="71"></a>
+
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
