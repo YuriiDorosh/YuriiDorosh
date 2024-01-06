@@ -29,7 +29,7 @@ person:
             operating_systems:
             - ["Linux", "Windows"]
             programming_languages:
-            - ["C", "C#", "MATLAB", "MicroPython"]
+            - ["C", "C#", "MATLAB"]
             version_control:
             - ["Git", "GitHub", "GitLab"]
             devops:
@@ -38,12 +38,14 @@ person:
             - ["Requests", "BeautifulSoup", "Selenium"]
             graphics_libraries:
             - ["Tkinter", "Custom Tkinter", "GTK"]
-            telegram_libraries::
+            bots_libraries:
             - ["aiogram2", "Telegraf"]
             networking_tools:
             - ["Wireshark", "Cisco Packet Tracer"]
             mathematical_calculations:
-            - ["NumPy", "Matplotlib"]          
+            - ["NumPy", "Matplotlib"] 
+            microcontrollers:
+            - ["MicroPython"]         
 ```
 
 <img alig src="https://github-profile-trophy.vercel.app/?username=yuriidorosh&theme=onedark&column=-1" />
