@@ -21,7 +21,7 @@ person:
         also_worked_with:
             backend:
             - ["Django Channels", "Django Ninja", "FastAPI"]
-            fronend:
+            frontend:
             - ["Figma", "React", "GraphQL", "HTMX"]
             databases:
             - ["SQLite", "MongoDB"]
