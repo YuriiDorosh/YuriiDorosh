@@ -56,7 +56,7 @@ person:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yurii-dorosh-0b2006281/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" width="71"></a>
+<a href="https://www.linkedin.com/in/yuriidorosh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" width="71"></a>
 <a href="https://www.instagram.com/y_u_r_a111/"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram" width="77"></a>
 <a href="https://t.me/s11nd8r"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram" width="75"></a>
 <a href="https://www.youtube.com/@user-hi7dq5hi1i"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube" width="71"></a>
