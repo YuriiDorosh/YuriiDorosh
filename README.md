@@ -8,23 +8,23 @@ person:
     email: contact.yuriidorosh@gmail.com
     education: Bachelor's in Cybersecurity
     job: PHP Backend Developer
-    currently_learning: ["PHP", "DevOps"]
+    currently_learning: ["DevOps"]
     tech_stack:
         main:
             backend:
+            - ["Python", "Django", "Django Rest Framework", "Flask"]
             - ["PHP", "CodeIgniter", "Laravel"]
-            - ["Python", "Django", "Django Rest Framework"]
             frontend:
-            - ["HTML", "CSS", "JavaScript"]
+            - ["HTML", "CSS", "JavaScript", "jQuery"]
             databases:
             - ["PostgreSQL", "MySQL"]
         also_worked_with:
             backend:
-            - ["Django Channels", "Django Ninja", "FastAPI"]
+            - ["Django Channels Rest Framework", "Django Ninja", "FastAPI"]
             frontend:
             - ["React", "Vue.js"]
             databases:
-            - ["SQLite"]
+            - ["SQLite", "Microsoft SQL Server"]
         additional:
             operating_systems:
             - ["Linux", "Windows"]
